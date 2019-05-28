@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BarrierImplementation",
+            "request": "launch",
+            "mainClass": "BarrierImplementation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BarierImplementation",
+            "request": "launch",
+            "mainClass": "BarierImplementation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BarierrImplementation",
+            "request": "launch",
+            "mainClass": "BarierrImplementation"
+        }
+    ]
+}
