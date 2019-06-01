@@ -45,7 +45,8 @@ public class BarrierImplementation
             {
                 try {
                     wait();
-                } catch (InterruptedException e) {
+                } catch (InterruptedException e) 
+                {
                     e.printStackTrace();
                 }
             }
